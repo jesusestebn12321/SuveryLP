@@ -1,0 +1,109 @@
+[
+	{
+		"id":"1",
+		"name":"Nathan",
+		"lastname":"Pearce",
+		"email":"pearce_nathan@aol.com",
+		"password":"N@tah12321",
+		"brith":"1990-11-27",
+	    "gender_id":"1",
+	    "status_id":"9"
+
+	},
+	{
+		"id":"2",
+		"name":"Jamie",
+		"lastname":"Wall",
+		"email":"wall.jamie@aol.com",
+		"password":"J@mie12321",
+		"brith":"1990-12-12",
+	    "gender_id":"1",
+	    "status_id":"9"
+
+	},
+	{
+		"id":"3",
+		"name":"Ryan",
+		"lastname":"Olsen",
+		"email":"ryanolsen529@aol.com",
+		"password":"Ry@n12321",
+		"brith":"1990-12-31"	,
+	    "gender_id":"1",
+	    "status_id":"9"
+
+	}, 
+	{
+		"id":"4",
+		"name":"Jayden",
+		"lastname":"Wyatt",
+		"email":"jayden.wyatt@aol.com",
+		"password":"J@yd12321",
+		"brith":"1990-11-15"	,
+	    "gender_id":"1",
+	    "status_id":"0"
+
+	},
+	{
+		"id":"5",
+		"name":"Freddie",
+		"lastname":"Noble",
+		"email":"freddienoble@aol.com",
+		"password":"N@ble12321",
+		"brith":"1990-12-02"	,
+	    "gender_id":"1",
+	    "status_id":"0"
+
+	},
+	{
+		"id":"6",
+		"name":"Dominic",
+		"lastname":"Thompson",
+		"email": "dominic12321@protonmail.com",
+		"password":"D@min12321",
+		"brith":"1990-04-18",
+	    "gender_id":"1",
+	    "status_id":"0"
+
+	},
+	{
+		"id":"7",
+		"name":"Nicholas",
+		"lastname":"Cartwright",
+		"email":"nicholas12321@protonmail.com",
+		"password":"Nich@12321",
+		"brith":"1990-06-06",
+	    "gender_id":"1",
+	    "status_id":"7"
+
+	},
+	{
+		"id":"8",
+		"name":"andrew",
+		"lastname":"stanley",
+		"email": "andrew.stanley12321@protonmail",
+		"password":"St@nley12321",
+		"brith":"1990-04-18",
+	    "gender_id":"1",
+	    "status_id":""
+
+	},
+	{
+		"id":"9",
+		"name":"olive",
+		"lastname":"moore",
+		"email": "olive.moore@protonmail",
+		"password":"Mo@re12321",
+		"brith":"1990-04-18",
+	    "gender_id":"1",
+	    "status_id":""
+
+	},
+
+]
+
+ 
+ 
+ 
+ 
+
+

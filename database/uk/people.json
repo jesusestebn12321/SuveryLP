@@ -1,0 +1,59 @@
+[
+    {
+        "id":"1",
+        "email_id":"1",
+        "password":"Core1W@12321",
+        "brith":"1976-01-10",
+        "last_login":"1999-01-10",
+        "code":"CF10 2DZ",
+        "seregins":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36",
+        "cookies":"asdasd",
+        "status_id":"1",
+        "street_id":"1",
+        "working":false,
+        "gender_id":"1"
+    },
+    {
+        "id":"2",
+        "email_id":"1",
+        "password":"challengeFsignificant59",
+        "brith":"1978-12-05",
+        "last_login":"1999-01-10",
+        "code":"CV3 4AY",
+        "seregins":"Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.67 Safari/537.36",
+        "cookies":"asaasdasd",
+        "status_id":"1",
+        "street_id":"3",
+        "working":false,
+        "gender_id":"1"
+    },
+    {
+        "id":"3",
+        "email_id":"1",
+        "password":"shar25@",
+        "brith":"1979-01-20",
+        "last_login":"1999-01-10",
+        "code":"BS4 1SA",
+        "seregins":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3730.0 Safari/537.36",
+        "cookies":"asaasasddasd",
+        "status_id":"1",
+        "street_id":"3",
+        "working":false,
+        "gender_id":"1"
+    },
+    {
+        "id":"4",
+        "email_id":"1",
+        "password":"Li@m12321",
+        "brith":"1977-11-27",
+        "last_login":"1999-01-10",
+        "code":"PR1 3TD",
+        "seregins":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3730.0 Safari/537.360",
+        "cookies":"asaasasdsddasd",
+        "status_id":"4",
+        "street_id":"3",
+        "working":false,
+        "gender_id":"1"
+    }
+    
+]

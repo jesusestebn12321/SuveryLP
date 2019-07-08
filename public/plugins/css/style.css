@@ -1,0 +1,17 @@
+#DataTables_Table_0_wrapper{
+	color:white;
+}
+#DataTables_Table_0_length > label > select{
+	margin: 10px;
+	margin-bottom: 1px;
+}
+#DataTables_Table_0_filter{
+	margin-left:70rem;left:20rem;position:relative
+}
+#DataTables_Table_0_paginate > ul{
+	margin-left:90rem;left:10rem;position:relative;color:white
+
+}
+#DataTables_Table_0_previous > a , #DataTables_Table_0_paginate > ul > li.paginate_button.active > a , #DataTables_Table_0_next > a{
+	color:white; padding: 2px;
+}
